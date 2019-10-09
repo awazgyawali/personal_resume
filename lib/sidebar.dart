@@ -95,6 +95,11 @@ class _SidebarState extends State<Sidebar> {
                       value: 4,
                       title: "Hindi",
                     ),
+                    SizedBox(height: 30),
+                    HeadingTile(
+                      title: "Social Links",
+                    ),
+                    SizedBox(height: 15),
                   ],
                 ),
               )
